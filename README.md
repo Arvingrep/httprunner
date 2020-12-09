@@ -64,4 +64,6 @@ HttpRunner is in Sentry Sponsored plan.
 [allure]: https://docs.qameta.io/allure/
 [HAR]: http://httparchive.org/
 
+### 源码架构分析截图
+[<img src="docs/20181129234057292.jpg" alt="源码分析截图" >]
 
